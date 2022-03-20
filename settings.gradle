@@ -1,0 +1,2 @@
+rootProject.name = "JungaJungle"
+include ':app'
